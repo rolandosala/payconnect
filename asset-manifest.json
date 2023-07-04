@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/payconnect/static/css/main.824f8a4d.css",
+    "main.js": "/payconnect/static/js/main.01adaa56.js",
+    "index.html": "/payconnect/index.html",
+    "main.824f8a4d.css.map": "/payconnect/static/css/main.824f8a4d.css.map",
+    "main.01adaa56.js.map": "/payconnect/static/js/main.01adaa56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.824f8a4d.css",
+    "static/js/main.01adaa56.js"
+  ]
+}
